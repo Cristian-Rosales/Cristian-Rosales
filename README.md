@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cristian-Rosales aka as Crispy.
+- 👋 Hi, I’m @Cristian-Rosales aka Crispy.
 - 👀 I’m interested in Data and Web Development.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on something fun.
